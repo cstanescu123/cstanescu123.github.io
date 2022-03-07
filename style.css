@@ -114,3 +114,10 @@
     padding: 50px;
     margin: 20px;
   }
+
+  #about-me {
+    flex-flow: column wrap;
+    border: 15px solid #474e5d;
+    padding: 50px;
+    margin: 20px;
+  }
